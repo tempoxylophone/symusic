@@ -1,6 +1,6 @@
 [submodule "3rdparty/minimidi"]
 	path = 3rdparty/minimidi
-	url = https://github.com/tempoxylophone/minimidi
+	url = https://github.com/tempoxylophone/minimidi.git
 	branch = "main"
 [submodule "3rdparty/pdqsort"]
 	path = 3rdparty/pdqsort
